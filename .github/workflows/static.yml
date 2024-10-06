@@ -31,27 +31,34 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
         with:
-          python-version: 3.12
+          python-version: 3.11  # Update to 3.11 if that is the correct version
+
       - name: Install dependencies
         run: |
           pip install -r FETP_book/requirements.txt
-      - name: cache executed notebooks
+
+      - name: Cache executed notebooks
         uses: actions/cache@v3
         with:
-          path: _build/.jupyter_cache
-          key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
+          path: FETP_book/_build/.jupyter_cache  # Adjust cache path if necessary
+          key: jupyter-book-cache-${{ hashFiles('FETP_book/requirements.txt') }}
+
       - name: Build the book
         run: |
-          jupyter-book build .
+          jupyter-book build FETP_book/  # Specify the path to your book
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "_build/html"
+          path: "FETP_book/_build/html"  # Specify the path to the built HTML files
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
