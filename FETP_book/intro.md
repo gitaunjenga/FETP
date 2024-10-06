@@ -1,4 +1,4 @@
-# Informatics for FETP
+# Introduction to Informatics for FETP
 
 ```{admonition} Welcome!
 :class: remove-from-content-only
