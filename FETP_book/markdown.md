@@ -33,6 +33,9 @@ It will be rendered in a special box when you build your book.
 
 Here is an inline directive to refer to a document: {doc}`markdown-notebooks`.
 
+<iframe class="form" width="640px" height="480px"
+        src="https://docs.google.com/forms/d/e/1FAIpQLSfQ0jYFbALGUqMfj7VwWDZZ6mpc88e0FRmGJ7Gz0w--M6ReoA/viewform?embedded=true"
+        allowfullscreen></iframe>
 
 ## Citations
 
