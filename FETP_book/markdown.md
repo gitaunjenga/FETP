@@ -50,7 +50,7 @@ Informaticians plan, maintain, and improve data systems that produce the informa
 
 **Lets take a moment and watch this video**
 
-<iframe class="video" width="640px" height="480px"
+<iframe class="video" width="800px" height="480px"
         src="https://www.youtube.com/embed/fLUygA8Hpfo?rel=0"
         allowfullscreen></iframe>
 
@@ -100,19 +100,11 @@ This includes understanding existing:
 
 ```{admonition} Additional Materials
 :class: remove-from-content-only tip
-
-<div class="container">
-  <div class="row">
-    <div class="col-xl">
-     This collection of video resources offers an in-depth look at public health informatics.
-  </div>
-</div>
 ```
 
 <iframe class="video" width="640px" height="480px"
         src="https://www.youtube.com/embed/Fzc3j8QG_Mw?rel=0"
         allowfullscreen></iframe>
-
 
 ## Summary
 
