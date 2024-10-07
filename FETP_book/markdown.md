@@ -8,8 +8,8 @@
 
 ## Unit Slides
 
-<iframe class="slides"
-        src="https://docs.google.com/presentation/d/1myHgIGYDyXoRbkKiiPs69sBGG9wdxaiXeRFSmp8PcYM"></iframe>
+<iframe class="slides" width="640px" height="480px"
+        src="https://docs.google.com/presentation/d/1myHgIGYDyXoRbkKiiPs69sBGG9wdxaiXeRFSmp8PcYM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Laila’s Problem: Data Overload
 
@@ -27,13 +27,11 @@ demands on her time.
 
 **How are you solving this problem?**
 
-<iframe class="image"
-        src="/images/image3.png"></iframe>
+<img src="images/image3.png" width="600" height="400"/>
 
 ## What is Public Health Informatics?
 
-<iframe class="image"
-        src="/images/image4.png"></iframe>
+<img src="images/image4.png" width="600" height="400"/>
 
 Public health informatics is the systematic application of information, computer science, and
 technology in areas of public health, (surveillance, prevention, preparedness, and health promotion)
@@ -48,20 +46,17 @@ Architects plan buildings with the needs of a community in mind.
 
 Informaticians plan, maintain, and improve data systems that produce the information public health professionals need to make sound public health decisions.
 
-<iframe class="image"
-        src="/images/image5.png"></iframe>
+<img src="images/image5.png" width="600" height="400"/>
 
 **Lets take a moment and watch this video**
 
-
 <iframe class="video" width="640px" height="480px"
-        src="https://youtu.be/fLUygA8Hpfo?si=SZwip8eAanMLM3hr"
+        src="https://www.youtube.com/embed/SZwip8eAanMLM3hr?rel=0"
         allowfullscreen></iframe>
 
 ## Transforming Data into Wisdom
 
-<iframe class="image"
-        src="/images/wisdom.png"></iframe>
+<img src="images/wisdom.png" width="600" height="400"/>
 
 **Wisdom**: the ability to make well-informed decisions and take effective actions based on understanding of the underlying knowledge
 
@@ -73,15 +68,15 @@ Informaticians plan, maintain, and improve data systems that produce the informa
 
 ## Public Health Surveillance + Information Value Cycle
 
-<iframe class="image"
-        src="/images/wisdom.png"></iframe>
+<img src="images/image2.png" width="600" height="400"/>
+
 
 ## Informatics Principles
 
-<iframe class="image"
-        src="/images/image1.png"></iframe>
+<img src="images/image1.png" width="600" height="400"/>
 
 By strategically applying informatics principles, systems and tools, we use evidence to solve public health problems in our current, existing ecosystem and improve health outcomes
+
 
 **Digital ecosystems are defined by:**
 
@@ -103,18 +98,21 @@ This includes understanding existing:
 **How would you describe your current access to technology and connectivity in your work setting? Is it affordable? For whom?**
 
 
-## Additional Materials
-**This collection of video resources offers an in-depth look at public health informatics.**
+```{admonition} Additional Materials
+:class: remove-from-content-only tip
 
-Here is what the video covers:
-- Importance of informatics to the public health mission
-- Role of informatician in public health practice.
-- Differentiate between public health informatics and information technology.
+<div class="container">
+  <div class="row">
+    <div class="col-xl">
+     This collection of video resources offers an in-depth look at public health informatics.
 
-
-<iframe class="video" width="640px" height="480px"
-        src="https://youtu.be/Fzc3j8QG_Mw"
-        allowfullscreen></iframe>
+     Here is what the video covers:
+     - Importance of informatics to the public health mission
+     - Role of informatician in public health practice.
+     - Differentiate between public health informatics and information technology.
+  </div>
+</div>
+```
 
 ## Summary
 
