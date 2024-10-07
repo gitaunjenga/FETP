@@ -28,6 +28,7 @@ demands on her time.
 **How are you solving this problem?**
 
 <img src="images/image3.png" width="600" height="400"/>
+<img src="images/image3.png" class="logo__image only-light" alt="My sample book - Home"/>
 
 ## What is Public Health Informatics?
 
@@ -105,7 +106,6 @@ This includes understanding existing:
   <div class="row">
     <div class="col-xl">
      This collection of video resources offers an in-depth look at public health informatics.
-
      Here is what the video covers:
      - Importance of informatics to the public health mission
      - Role of informatician in public health practice.
@@ -113,6 +113,10 @@ This includes understanding existing:
   </div>
 </div>
 ```
+<iframe class="video" width="640px" height="480px"
+        src="https://www.youtube.com/embed/Fzc3j8QG_Mw?rel=0"
+        allowfullscreen></iframe>
+
 
 ## Summary
 
