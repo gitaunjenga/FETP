@@ -8,7 +8,7 @@
 
 ## Unit Slides
 
-<iframe class="slides" width="640px" height="480px"
+<iframe class="slides" width="800px" height="480px"
         src="https://docs.google.com/presentation/d/1myHgIGYDyXoRbkKiiPs69sBGG9wdxaiXeRFSmp8PcYM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Laila’s Problem: Data Overload
@@ -27,8 +27,7 @@ demands on her time.
 
 **How are you solving this problem?**
 
-<img src="images/image3.png" width="600" height="400"/>
-<img src="images/image3.png" class="logo__image only-light" alt="My sample book - Home"/>
+<img src="https://drive.google.com/uc?id=1lp7jiftbj2Va-HN6QN6wfPu8GpA0QIde" alt="My Image" width="800"/>
 
 ## What is Public Health Informatics?
 
