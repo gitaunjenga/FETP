@@ -103,7 +103,7 @@ This includes understanding existing:
 This collection of video resources offers an in-depth look at public health informatics.
 ```
 
-<iframe class="video" width="640px" height="480px"
+<iframe class="video" width="800px" height="480px"
         src="https://www.youtube.com/embed/Fzc3j8QG_Mw?rel=0"
         allowfullscreen></iframe>
 
