@@ -51,7 +51,7 @@ Informaticians plan, maintain, and improve data systems that produce the informa
 **Lets take a moment and watch this video**
 
 <iframe class="video" width="640px" height="480px"
-        src="https://www.youtube.com/embed/SZwip8eAanMLM3hr?rel=0"
+        src="https://www.youtube.com/embed/fLUygA8Hpfo?rel=0"
         allowfullscreen></iframe>
 
 ## Transforming Data into Wisdom
@@ -105,13 +105,10 @@ This includes understanding existing:
   <div class="row">
     <div class="col-xl">
      This collection of video resources offers an in-depth look at public health informatics.
-     Here is what the video covers:
-     - Importance of informatics to the public health mission
-     - Role of informatician in public health practice.
-     - Differentiate between public health informatics and information technology.
   </div>
 </div>
 ```
+
 <iframe class="video" width="640px" height="480px"
         src="https://www.youtube.com/embed/Fzc3j8QG_Mw?rel=0"
         allowfullscreen></iframe>
