@@ -54,9 +54,8 @@ Informaticians plan, maintain, and improve data systems that produce the informa
 **Lets take a moment and watch this video**
 
 
-
 <iframe class="video" width="640px" height="480px"
-        src="https://youtu.be/fLUygA8Hpfo"
+        src="https://youtu.be/fLUygA8Hpfo?si=SZwip8eAanMLM3hr"
         allowfullscreen></iframe>
 
 ## Transforming Data into Wisdom
