@@ -100,6 +100,7 @@ This includes understanding existing:
 
 ```{admonition} Additional Materials
 :class: remove-from-content-only tip
+This collection of video resources offers an in-depth look at public health informatics.
 ```
 
 <iframe class="video" width="640px" height="480px"
