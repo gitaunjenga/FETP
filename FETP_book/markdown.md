@@ -1,58 +1,132 @@
-# Markdown Files
+# Unit 1
+## Introduction to Informatics for FETP
+### Learning Objectives
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+- Describe how key informatics principles, systems, and tools can improve public health surveillance and outbreak investigations.
+- Explain how the transformation of raw data to meaningful information, knowledge, and wisdom necessary supports data-driven action.
+- Match your country’s health information system landscape and current trends to surveillance system components.
 
-## What is MyST?
+## Unit Slides
 
-MyST stands for "Markedly Structured Text". It
-is a slight variation on a flavor of markdown called "CommonMark" markdown,
-with small syntax extensions to allow you to write **roles** and **directives**
-in the Sphinx ecosystem.
+<iframe class="slides"
+        src="https://docs.google.com/presentation/d/1myHgIGYDyXoRbkKiiPs69sBGG9wdxaiXeRFSmp8PcYM"></iframe>
 
-For more about MyST, see [the MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
+## Laila’s Problem: Data Overload
 
-## Sample Roles and Directives
+As a field epidemiologist, Laila is always on the lookout for potential outbreaks.
 
-Roles and directives are two of the most powerful tools in Jupyter Book. They
-are like functions, but written in a markup language. They both
-serve a similar purpose, but **roles are written in one line**, whereas
-**directives span many lines**. They both accept different kinds of inputs,
-and what they do with those inputs depends on the specific role or directive
-that is being called.
+**Her challenge?**
 
-Here is a "note" directive:
+- Laila has a large volume of data coming to her at full speed from a
+wide variety of sources.
+- Locating, cleaning, and transforming the data she needs into
+information she can use can be time-consuming. She has many
+demands on her time.
 
-```{note}
-Here is a note
-```
+**How many of you can relate to this same challenge?**
 
-It will be rendered in a special box when you build your book.
+**How are you solving this problem?**
 
-Here is an inline directive to refer to a document: {doc}`markdown-notebooks`.
+<iframe class="image"
+        src="/images/image3.png"></iframe>
+
+## What is Public Health Informatics?
+
+<iframe class="image"
+        src="/images/image4.png"></iframe>
+
+Public health informatics is the systematic application of information, computer science, and
+technology in areas of public health, (surveillance, prevention, preparedness, and health promotion)
+to capture, manage, analyze, disseminate, and use information to improve population-level health
+outcomes.
+
+Public health informatics uses information technology to design and run information systems that “package” and securely send public health data to the right people, at the right place, and on time.
+
+## Workforce: What do informaticians do?
+
+Architects plan buildings with the needs of a community in mind.
+
+Informaticians plan, maintain, and improve data systems that produce the information public health professionals need to make sound public health decisions.
+
+<iframe class="image"
+        src="/images/image5.png"></iframe>
+
+**Lets take a moment and watch this video**
+
+
+
+<iframe class="video" width="640px" height="480px"
+        src="https://youtu.be/fLUygA8Hpfo"
+        allowfullscreen></iframe>
+
+## Transforming Data into Wisdom
+
+<iframe class="image"
+        src="/images/wisdom.png"></iframe>
+
+**Wisdom**: the ability to make well-informed decisions and take effective actions based on understanding of the underlying knowledge
+
+**Knowledge**: analyzed and interpreted information to uncover patterns, trends & relationships. Uncovers “how” and “why.”
+
+**Information**: organized, structure and contexualized data. Answers “person,” “place,” and “time.”
+
+**Data**: raw unprocessed facts and figures. Holds limited value in isolation.
+
+## Public Health Surveillance + Information Value Cycle
+
+<iframe class="image"
+        src="/images/wisdom.png"></iframe>
+
+## Informatics Principles
+
+<iframe class="image"
+        src="/images/image1.png"></iframe>
+
+By strategically applying informatics principles, systems and tools, we use evidence to solve public health problems in our current, existing ecosystem and improve health outcomes
+
+**Digital ecosystems are defined by:**
+
+- Culture, gender and social norms,
+- Political environment, economy, technology infrastructure and
+- Other factors that can affect an individual’s ability to access and use a technology
+
+Understanding the existing digital ecosystem can help determine if and how epidemiologists should:
+
+- Engage with and adapt existing informatics solutions.
+- Support local informaticians and actors taking action to tackle key challenges
+
+
+This includes understanding existing:
+
+- Access to devices, connectivity, affordability, digital literacy, and capacity strengthening opportunities so that initiatives are designed to accommodate or strengthen these realities.
+- Government policies, national visions, sector policies/priorities/strategies, and efforts to expand foundational digital public infrastructure.
+
+**How would you describe your current access to technology and connectivity in your work setting? Is it affordable? For whom?**
+
+
+## Additional Materials
+**This collection of video resources offers an in-depth look at public health informatics.**
+
+Here is what the video covers:
+- Importance of informatics to the public health mission
+- Role of informatician in public health practice.
+- Differentiate between public health informatics and information technology.
+
+
+<iframe class="video" width="640px" height="480px"
+        src="https://youtu.be/Fzc3j8QG_Mw"
+        allowfullscreen></iframe>
+
+## Summary
+
+- Informatics applies relevant information technology to content and processes that help epidemiologists use data to rapidly detect, diagnose, and take action to address public health emergencies.
+- Informaticians specialize in translating data into information, which allows
+epidemiologists to apply their knowledge and turn into wisdom to solve epidemiological problems.
+- By applying informatics to the public health surveillance cycle, epidemiologists can extract greater value from the data available to them.
+- Applying informatics principles enables epidemiologists to use informatics systems and tools more effectively
+
+## Interactive Knowledge Check
 
 <iframe class="form" width="640px" height="480px"
         src="https://docs.google.com/forms/d/e/1FAIpQLSfQ0jYFbALGUqMfj7VwWDZZ6mpc88e0FRmGJ7Gz0w--M6ReoA/viewform?embedded=true"
         allowfullscreen></iframe>
-
-## Citations
-
-You can also cite references that are stored in a `bibtex` file. For example,
-the following syntax: `` {cite}`holdgraf_evidence_2014` `` will render like
-this: {cite}`holdgraf_evidence_2014`.
-
-Moreover, you can insert a bibliography into your page with this syntax:
-The `{bibliography}` directive must be used for all the `{cite}` roles to
-render properly.
-For example, if the references for your book are stored in `references.bib`,
-then the bibliography is inserted with:
-
-```{bibliography}
-```
-
-## Learn more
-
-This is just a simple starter to get you started.
-You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).

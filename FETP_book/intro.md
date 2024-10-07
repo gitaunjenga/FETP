@@ -1,5 +1,4 @@
-# Introduction to Informatics for FETP
-
+# Context and Purpose
 ```{admonition} Welcome!
 :class: remove-from-content-only
 
