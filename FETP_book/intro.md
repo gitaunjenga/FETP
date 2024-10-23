@@ -1,4 +1,4 @@
-# Context and Purposeee
+# Context and Purpose
 ```{admonition} Welcome!
 :class: remove-from-content-only
 
