@@ -46,7 +46,7 @@ Architects plan buildings with the needs of a community in mind.
 
 Informaticians plan, maintain, and improve data systems that produce the information public health professionals need to make sound public health decisions.
 
-<img src="images/image5.png" width="600" height="400"/>
+<img src="../images/image5.png" width="600" height="400"/>
 
 **Lets take a moment and watch this video**
 
