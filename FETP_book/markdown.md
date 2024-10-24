@@ -5,7 +5,7 @@
 - Describe how key informatics principles, systems, and tools can improve public health surveillance and outbreak investigations.
 - Explain how the transformation of raw data to meaningful information, knowledge, and wisdom necessary supports data-driven action.
 - Match your country’s health information system landscape and current trends to surveillance system components.
-
+![fishy](/FETP_book/images/image2.png)
 ## Unit Slides
 
 <iframe class="slides" width="800px" height="480px"
@@ -31,7 +31,7 @@ demands on her time.
 
 ## What is Public Health Informatics?
 
-<img src="images/image4.png" width="600" height="400"/>
+<img src="/FETP_book/images/image4.png" width="600" height="400"/>
 
 Public health informatics is the systematic application of information, computer science, and
 technology in areas of public health, (surveillance, prevention, preparedness, and health promotion)
