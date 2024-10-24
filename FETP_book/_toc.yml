@@ -5,15 +5,15 @@ format: jb-book
 root: intro
 chapters:
 - file: markdown
-- file: 3-what-is-data-science
+- file: Unit_2
   title: Unit 2
-- file: 3-what-is-data-science
+- file: Unit_3
   title: Unit 3
-- file: 3-what-is-data-science
+- file: Unit_4
   title: Unit 4
-- file: 3-what-is-data-science
+- file: Unit_5
   title: Unit 5
-- file: 3-what-is-data-science
+- file: Unit_6
   title: Unit 6
-- file: 3-what-is-data-science
+- file: Unit_7
   title: Unit 7
