@@ -1,4 +1,4 @@
-# Unit 1: Introduction to Informatics for FETP
+# Unit 1 - Introduction to Informatics for FETP
 ## Introduction to Informatics for Epidemiology
 ### Learning Objectives
 

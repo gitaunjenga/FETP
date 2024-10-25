@@ -6,11 +6,11 @@ root: intro
 chapters:
 - file: markdown
 - file: Unit_2
-  title: Unit 2: Using Informatics for Detection & Diagnosis
+  title: Unit 2 - Using Informatics for Detection & Diagnosis
 - file: FETP_Unit_1
-  title: Unit 3
+  title: Unit 3 - Design and Plan for Action
 - file: Unit_4
-  title: Unit 4
+  title: Unit 4. Collecting Data with Informatics
 - file: Unit_5
   title: Unit 5
 - file: Unit_6
