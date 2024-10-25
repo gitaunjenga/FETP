@@ -1,5 +1,5 @@
 # Unit 1: Introduction to Informatics for FETP
-## Introduction to Informatics for FETP
+## Introduction to Informatics for Epidemiology
 ### Learning Objectives
 
 - Describe how key informatics principles, systems, and tools can improve public health surveillance and outbreak investigations.
