@@ -6,6 +6,9 @@ root: intro
 chapters:
 - file: Unit_1
 - file: Unit_2
+  sections:
+    - file: Unit_2.1
+    - file: Unit_2.2
 - file: Unit_3
 - file: Unit_4
 - file: Unit_5
