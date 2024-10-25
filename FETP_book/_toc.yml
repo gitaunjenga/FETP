@@ -4,10 +4,11 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
+- file: Unit_1
 - file: Unit_2
-- file: FETP_Unit_1
+- file: Unit_3
 - file: Unit_4
 - file: Unit_5
 - file: Unit_6
 - file: Unit_7
+- file: Unit_8
