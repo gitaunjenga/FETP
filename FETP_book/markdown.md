@@ -1,6 +1,6 @@
-# Unit 1 - Introduction to Informatics for FETP
+# Unit 1 - Introduction to Informatics for Epidemiology
 ## Introduction to Informatics for Epidemiology
-### Learning Objectives
+### 1.1 Learning Objectives
 
 - Describe how key informatics principles, systems, and tools can improve public health surveillance and outbreak investigations.
 - Explain how the transformation of raw data to meaningful information, knowledge, and wisdom necessary supports data-driven action.
@@ -8,12 +8,12 @@
 
 
 
-## Unit Slides
+### 1.2 Unit Slides
 
 <iframe class="slides" width="800px" height="480px"
         src="https://docs.google.com/presentation/d/1myHgIGYDyXoRbkKiiPs69sBGG9wdxaiXeRFSmp8PcYM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Laila’s Problem: Data Overload
+### 1.3 Laila’s Problem: Data Overload
 
 As a field epidemiologist, Laila is always on the lookout for potential outbreaks.
 
@@ -31,7 +31,7 @@ demands on her time.
 
 ![fishy](images/image3.png)
 
-## What is Public Health Informatics?
+## 2. What is Public Health Informatics?
 
 ![fishy](images/image4.png)
 
@@ -42,7 +42,7 @@ outcomes.
 
 Public health informatics uses information technology to design and run information systems that “package” and securely send public health data to the right people, at the right place, and on time.
 
-## Workforce: What do informaticians do?
+### 2.1 Workforce: What do informaticians do?
 
 Architects plan buildings with the needs of a community in mind.
 
@@ -56,7 +56,7 @@ Informaticians plan, maintain, and improve data systems that produce the informa
         src="https://www.youtube.com/embed/fLUygA8Hpfo?rel=0"
         allowfullscreen></iframe>
 
-## Transforming Data into Wisdom
+## 3. Transforming Data into Wisdom
 
 ![fishy](images/wisdom.png)
 
@@ -68,11 +68,11 @@ Informaticians plan, maintain, and improve data systems that produce the informa
 
 **Data**: raw unprocessed facts and figures. Holds limited value in isolation.
 
-## Public Health Surveillance + Information Value Cycle
+### 3.1 Public Health Surveillance + Information Value Cycle
 
 ![fishy](images/image2.png)
 
-## Informatics Principles
+## 4. Informatics Principles
 
 ![fishy](images/image1.png)
 
@@ -108,7 +108,7 @@ This collection of video resources offers an in-depth look at public health info
         src="https://www.youtube.com/embed/Fzc3j8QG_Mw?rel=0"
         allowfullscreen></iframe>
 
-## Summary
+## 5. Summary
 
 - Informatics applies relevant information technology to content and processes that help epidemiologists use data to rapidly detect, diagnose, and take action to address public health emergencies.
 - Informaticians specialize in translating data into information, which allows
@@ -116,7 +116,7 @@ epidemiologists to apply their knowledge and turn into wisdom to solve epidemiol
 - By applying informatics to the public health surveillance cycle, epidemiologists can extract greater value from the data available to them.
 - Applying informatics principles enables epidemiologists to use informatics systems and tools more effectively
 
-## Interactive Knowledge Check
+## 6. Interactive Knowledge Check
 
 <iframe class="form" width="640px" height="480px"
         src="https://docs.google.com/forms/d/e/1FAIpQLSfQ0jYFbALGUqMfj7VwWDZZ6mpc88e0FRmGJ7Gz0w--M6ReoA/viewform?embedded=true"
