@@ -33,7 +33,7 @@ demands on her time.
 
 ## What is Public Health Informatics?
 
-<img src="/FETP_book/images/image4.png" width="600" height="400"/>
+![fishy](images/image4.png)
 
 Public health informatics is the systematic application of information, computer science, and
 technology in areas of public health, (surveillance, prevention, preparedness, and health promotion)
@@ -48,7 +48,7 @@ Architects plan buildings with the needs of a community in mind.
 
 Informaticians plan, maintain, and improve data systems that produce the information public health professionals need to make sound public health decisions.
 
-<img src="/images/image5.png" width="600" height="400"/>
+![fishy](images/image5.png)
 
 **Lets take a moment and watch this video**
 
@@ -58,7 +58,7 @@ Informaticians plan, maintain, and improve data systems that produce the informa
 
 ## Transforming Data into Wisdom
 
-<img src="images/wisdom.png" width="600" height="400"/>
+![fishy](images/wisdom.png)
 
 **Wisdom**: the ability to make well-informed decisions and take effective actions based on understanding of the underlying knowledge
 
@@ -70,12 +70,11 @@ Informaticians plan, maintain, and improve data systems that produce the informa
 
 ## Public Health Surveillance + Information Value Cycle
 
-<img src="images/image2.png" width="600" height="400"/>
-
+![fishy](images/image2.png)
 
 ## Informatics Principles
 
-<img src="images/image1.png" width="600" height="400"/>
+![fishy](images/image1.png)
 
 By strategically applying informatics principles, systems and tools, we use evidence to solve public health problems in our current, existing ecosystem and improve health outcomes
 
