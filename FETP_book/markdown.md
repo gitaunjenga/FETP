@@ -5,6 +5,8 @@
 - Describe how key informatics principles, systems, and tools can improve public health surveillance and outbreak investigations.
 - Explain how the transformation of raw data to meaningful information, knowledge, and wisdom necessary supports data-driven action.
 - Match your country’s health information system landscape and current trends to surveillance system components.
+
+test
 ![fishy](image4.png)
 ## Unit Slides
 
