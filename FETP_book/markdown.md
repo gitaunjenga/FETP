@@ -1,6 +1,7 @@
 # Unit 1
 ## Introduction to Informatics for FETP
 ### Learning Objectives
+<img src="image4.png" width="600" height="400"/>
 
 - Describe how key informatics principles, systems, and tools can improve public health surveillance and outbreak investigations.
 - Explain how the transformation of raw data to meaningful information, knowledge, and wisdom necessary supports data-driven action.
