@@ -1,4 +1,4 @@
-# Unit 1
+# Unit 1: Introduction to Informatics for FETP
 ## Introduction to Informatics for FETP
 ### Learning Objectives
 
