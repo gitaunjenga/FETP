@@ -6,8 +6,6 @@
 - Explain how the transformation of raw data to meaningful information, knowledge, and wisdom necessary supports data-driven action.
 - Match your country’s health information system landscape and current trends to surveillance system components.
 
-test
-![fishy](images/image5.png)
 ## Unit Slides
 
 <iframe class="slides" width="800px" height="480px"
@@ -28,8 +26,8 @@ demands on her time.
 **How many of you can relate to this same challenge?**
 
 **How are you solving this problem?**
-
-<img src="https://drive.google.com/uc?id=1lp7jiftbj2Va-HN6QN6wfPu8GpA0QIde" alt="My Image" width="800"/>
+![fishy]("https://drive.google.com/uc?id=1lp7jiftbj2Va-HN6QN6wfPu8GpA0QIde")
+![fishy]("images/image3.png")
 
 ## What is Public Health Informatics?
 
