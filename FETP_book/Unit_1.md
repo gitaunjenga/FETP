@@ -1,5 +1,4 @@
-# Unit 1 - Introduction to Informatics for Epidemiology
-## Introduction to Informatics for Epidemiology
+# Unit 1: Introduction to Informatics for Epidemiology
 ### 1.1 Learning Objectives
 
 - Describe how key informatics principles, systems, and tools can improve public health surveillance and outbreak investigations.
