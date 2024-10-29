@@ -1,7 +1,12 @@
 [
+<<<<<<< HEAD
     {
       "front": "What causes Laila's situation?",
       "back": "1. Multiple, uncoordinated health information systems and software used to collect public health data for different stakeholders that have overlapping information needs<br>2. Technology infrastructure issues (ie: connectivity, power outages, etc) interfere with data collection and reporting"
     }
+=======
+    {"front": "Question 1", "back": "Answer 1"},
+    {"front": "Question 2", "back": "Answer 2"}
+>>>>>>> 694612213907ef67cafc6cc032ede6381820e8f4
   ]
   
