@@ -114,9 +114,3 @@ This collection of video resources offers an in-depth look at public health info
 epidemiologists to apply their knowledge and turn into wisdom to solve epidemiological problems.
 - By applying informatics to the public health surveillance cycle, epidemiologists can extract greater value from the data available to them.
 - Applying informatics principles enables epidemiologists to use informatics systems and tools more effectively
-
-## 6. Interactive Knowledge Check
-
-<iframe class="form" width="640px" height="480px"
-        src="https://docs.google.com/forms/d/e/1FAIpQLSfQ0jYFbALGUqMfj7VwWDZZ6mpc88e0FRmGJ7Gz0w--M6ReoA/viewform?embedded=true"
-        allowfullscreen></iframe>
