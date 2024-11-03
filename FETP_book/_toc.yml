@@ -1,8 +1,8 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-format: jb-book
-root: intro
+
+- file: intro
 
 - part: Unit 1 - Introduction
   chapters:
@@ -12,12 +12,11 @@ root: intro
   chapters:
     - file: Unit_2
     - file: Unit_2.1
-      sections:
-        - file: Unit_2.1_Case_study
-        - file: Unit_2.1_Case_study_Assignment_1
-        - file: Unit_2.1_Using_Software_to_Explore_Datasets
-        - file: Unit_2.1_Case_study_Assignment_2
-        - file: Unit_2.1_Case_study_Assignment_3
+    - file: Unit_2.1_Case_study
+    - file: Unit_2.1_Case_study_Assignment_1
+    - file: Unit_2.1_Using_Software_to_Explore_Datasets
+    - file: Unit_2.1_Case_study_Assignment_2
+    - file: Unit_2.1_Case_study_Assignment_3
     - file: Unit_2.2
     - file: Unit_2.2_Individual_Assignment_4
     - file: Unit_2.2_Compile_and_Analyze_Data
