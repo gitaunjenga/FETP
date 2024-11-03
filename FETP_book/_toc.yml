@@ -3,50 +3,49 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: Unit_1
-  title: "**Unit 1: Introduction**"
-- file: Unit_2
-  title: "**Unit 2: Data Exploration**"
-  sections:
+
+- part: Unit 1 - Introduction
+  chapters:
+    - file: Unit_1
+
+- part: Unit 2 - Data Exploration
+  chapters:
+    - file: Unit_2
     - file: Unit_2.1
-      title: "**2.1 Case Study and Assignments**"
       sections:
         - file: Unit_2.1_Case_study
-          title: "Case Study Overview"
         - file: Unit_2.1_Case_study_Assignment_1
-          title: "Case Study Assignment 1"
         - file: Unit_2.1_Using_Software_to_Explore_Datasets
-          title: "Using Software to Explore Datasets"
         - file: Unit_2.1_Case_study_Assignment_2
-          title: "Case Study Assignment 2"
         - file: Unit_2.1_Case_study_Assignment_3
-          title: "Case Study Assignment 3"
     - file: Unit_2.2
-      title: "**2.2 Data Compilation**"
-      sections:
-        - file: Unit_2.2_Individual_Assignment_4
-          title: "Individual Assignment 4"
-        - file: Unit_2.2_Compile_and_Analyze_Data
-          title: "Compile and Analyze Data"
-        - file: Unit_2.2_Case_study_Assignment_5
-          title: "Case Study Assignment 5"
+    - file: Unit_2.2_Individual_Assignment_4
+    - file: Unit_2.2_Compile_and_Analyze_Data
+    - file: Unit_2.2_Case_study_Assignment_5
     - file: Unit_2.3_Analyzing_and_Visualizing_Data
-      title: "**2.3 Data Analysis and Visualization**"
-      sections:
-        - file: Unit_2.3_Case_study_Assignment_6
-          title: "Case Study Assignment 6"
-        - file: Unit_2.3_Case_study_Assignment_X
-          title: "Case Study Assignment X"
-- file: Unit_3
-  title: "**Unit 3: Advanced Analysis**"
-- file: Unit_4
-  title: "**Unit 4: Modeling Techniques**"
-- file: Unit_5
-  title: "**Unit 5: Evaluation and Interpretation**"
-- file: Unit_6
-  title: "**Unit 6: Presentation and Reporting**"
-- file: Unit_7
-  title: "**Unit 7: Ethical Considerations**"
-- file: Unit_8
-  title: "**Unit 8: Future Directions in Data Science**"
+    - file: Unit_2.3_Case_study_Assignment_6
+    - file: Unit_2.3_Case_study_Assignment_X
+
+- part: Unit 3 - Advanced Analysis
+  chapters:
+    - file: Unit_3
+
+- part: Unit 4 - Modeling Techniques
+  chapters:
+    - file: Unit_4
+
+- part: Unit 5 - Evaluation and Interpretation
+  chapters:
+    - file: Unit_5
+
+- part: Unit 6 - Presentation and Reporting
+  chapters:
+    - file: Unit_6
+
+- part: Unit 7 - Ethical Considerations
+  chapters:
+    - file: Unit_7
+
+- part: Unit 8 - Future Directions in Data Science
+  chapters:
+    - file: Unit_8
