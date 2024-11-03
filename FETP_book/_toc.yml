@@ -1,22 +1,51 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+# format: jb-book
+# root: intro
+# chapters:
+# - file: Unit_1
+# - file: Unit_2
+#   sections:
+#     - file: Unit_2.1
+#       sections:
+#         - file: Unit_2.1_Case_study
+#         - file: Unit_2.1_Case_study_Assignment_1
+#         - file: Unit_2.1_Using_Software_to_Explore_Datasets
+#         - file: Unit_2.1_Case_study_Assignment_2
+#         - file: Unit_2.1_Case_study_Assignment_3
+#     - file: Unit_2.2
+#     - file: Unit_2.2_Individual_Assignment_4
+#     - file: Unit_2.2_Compile_and_Analyze_Data
+#     - file: Unit_2.2_Case_study_Assignment_5
+#     - file: Unit_2.3_Analyzing_and_Visualizing_Data
+#     - file: Unit_2.3_Case_study_Assignment_6
+#     - file: Unit_2.3_Case_study_Assignment_X
+# - file: Unit_3
+# - file: Unit_4
+# - file: Unit_5
+# - file: Unit_6
+# - file: Unit_7
+# - file: Unit_8
+
+
+
 
 - file: intro
 
-- part: Unit 1 - Introduction
+- part: About the course
   chapters:
-    - file: Unit_1
-
-- part: Unit 2 - Data Exploration
-  chapters:
-    - file: Unit_2
+  - file: Unit_1
+  - file: Unit_2
+    sections:
     - file: Unit_2.1
-    - file: Unit_2.1_Case_study
-    - file: Unit_2.1_Case_study_Assignment_1
-    - file: Unit_2.1_Using_Software_to_Explore_Datasets
-    - file: Unit_2.1_Case_study_Assignment_2
-    - file: Unit_2.1_Case_study_Assignment_3
+      expand_sections: true
+      sections:
+        - file: Unit_2.1_Case_study
+        - file: Unit_2.1_Case_study_Assignment_1
+        - file: Unit_2.1_Using_Software_to_Explore_Datasets
+        - file: Unit_2.1_Case_study_Assignment_2
+        - file: Unit_2.1_Case_study_Assignment_3
     - file: Unit_2.2
     - file: Unit_2.2_Individual_Assignment_4
     - file: Unit_2.2_Compile_and_Analyze_Data
@@ -25,26 +54,6 @@
     - file: Unit_2.3_Case_study_Assignment_6
     - file: Unit_2.3_Case_study_Assignment_X
 
-- part: Unit 3 - Advanced Analysis
+- part: UNIT 3
   chapters:
-    - file: Unit_3
-
-- part: Unit 4 - Modeling Techniques
-  chapters:
-    - file: Unit_4
-
-- part: Unit 5 - Evaluation and Interpretation
-  chapters:
-    - file: Unit_5
-
-- part: Unit 6 - Presentation and Reporting
-  chapters:
-    - file: Unit_6
-
-- part: Unit 7 - Ethical Considerations
-  chapters:
-    - file: Unit_7
-
-- part: Unit 8 - Future Directions in Data Science
-  chapters:
-    - file: Unit_8
+  - file: Unit_3
