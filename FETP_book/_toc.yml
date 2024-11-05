@@ -15,10 +15,10 @@ chapters:
         - file: Unit_2.1_Case_study_Assignment_2
         - file: Unit_2.1_Case_study_Assignment_3
     - file: Unit_2.2
-    - file: Unit_2.2_Individual_Assignment_4
+    - file: Unit_2.2_Case_study_Assignment_4
     - file: Unit_2.2_Compile_and_Analyze_Data
     - file: Unit_2.2_Case_study_Assignment_5
-    - file: Unit_2.3_Analyzing_and_Visualizing_Data
+    - file: Unit_2.3
     - file: Unit_2.3_Case_study_Assignment_6
     - file: Unit_2.3_Case_study_Assignment_X
 - file: Unit_3
