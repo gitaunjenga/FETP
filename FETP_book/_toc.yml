@@ -22,6 +22,8 @@ chapters:
     - file: Unit_2.3_Case_study_Assignment_6
     - file: Unit_2.3_Case_study_Assignment_X
 - file: Unit_3
+  sections:
+    - file: Unit_3_Assignment_1
 - file: Unit_4
 - file: Unit_5
 - file: Unit_6
