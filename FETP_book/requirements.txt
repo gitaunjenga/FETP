@@ -3,6 +3,3 @@ matplotlib
 numpy
 jupyterquiz
 jupytercards
-qgrid
-ipywidgets
-pandas
