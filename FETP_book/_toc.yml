@@ -28,11 +28,14 @@ chapters:
     - file: Unit_3_Assignment_2
     - file: Unit_3_Assignment_3
 - file: Unit_4
+  sections:
     - file: Unit_4_Assignment_1
     - file: Unit_4_Assignment_2
 - file: Unit_5
+  sections:
     - file: Unit_5_Assignment
 - file: Unit_6
 - file: Unit_7
+  sections:
     - file: Unit_7_Assignment
 - file: Unit_8
