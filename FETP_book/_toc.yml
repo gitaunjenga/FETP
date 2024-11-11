@@ -7,15 +7,51 @@ parts:
   - caption: UNIT 2 - Advanced Topics in Data Analysis
     chapters:
     - file: Unit_2
-      sections:
-      - caption: Unit 2.1 Case Studies and Assignments
-        chapters:
-        - file: Unit_2.1_Case_study
-        - file: Unit_2.1_Case_study_Assignment_1
-        - file: Unit_2.1_Using_Software_to_Explore_Datasets
-        - file: Unit_2.1_Case_study_Assignment_2
-        - file: Unit_2.1_Case_study_Assignment_3
+  - caption: Unit 2.1 Case Studies and Assignments
+    chapters:
+    - file: Unit_2.1_Case_study
+    - file: Unit_2.1_Case_study_Assignment_1
+    - file: Unit_2.1_Using_Software_to_Explore_Datasets
+    - file: Unit_2.1_Case_study_Assignment_2
+    - file: Unit_2.1_Case_study_Assignment_3
+
+    - file: Unit_2.2
+    - file: Unit_2.2_Case_study_Assignment_4
+    - file: Unit_2.2_Compile_and_Analyze_Data
+    - file: Unit_2.2_Case_study_Assignment_5
+    - file: Unit_2.3
+    - file: Unit_2.3_Case_study_Assignment_6
+    - file: Unit_2.3_Case_study_Assignment_X
+
+  - caption: UNIT 3
+    chapters:
+    - file: Unit_3
+    - file: Unit_3_Assesing_HIS_Applications
+    - file: Unit_3_Assignment_1
+    - file: Unit_3_Assignment_2
+    - file: Unit_3_Assignment_3
       
+  - caption: UNIT 4
+    chapters:
+    - file: Unit_4_Assignment_1
+    - file: Unit_4_Assignment_2
+
+  - caption: UNIT 5
+    chapters:
+    - file: Unit_5_Assignment
+
+  - caption: UNIT 6
+    chapters:
+    - file: Unit_6
+  - caption: UNIT 7
+    chapters:
+    - file: Unit_7
+    - file: Unit_7_Assignment
+
+  - caption: UNIT 8
+    chapters:
+    - file: Unit_8
+
 
 
 
