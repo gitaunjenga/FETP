@@ -1,13 +1,13 @@
 format: jb-book
 root: intro
 parts:
-  - caption: UNIT 1
+  - caption: UNIT 1 - INTRODUCTION TO INFORMATICS
     chapters:
     - file: Unit_1
-  - caption: UNIT 2 - Advanced Topics in Data Analysis
+  - caption: UNIT 2 - DETECTION AND DIAGNOSIS
     chapters:
     - file: Unit_2
-  - caption: Unit 2.1 Case Studies and Assignments
+  - caption: Unit 2.1
     chapters:
     - file: Unit_2.1_Case_study
     - file: Unit_2.1_Case_study_Assignment_1
@@ -15,6 +15,7 @@ parts:
     - file: Unit_2.1_Case_study_Assignment_2
     - file: Unit_2.1_Case_study_Assignment_3
 
+  - caption: Unit 2.2
     - file: Unit_2.2
     - file: Unit_2.2_Case_study_Assignment_4
     - file: Unit_2.2_Compile_and_Analyze_Data
@@ -23,7 +24,7 @@ parts:
     - file: Unit_2.3_Case_study_Assignment_6
     - file: Unit_2.3_Case_study_Assignment_X
 
-  - caption: UNIT 3
+  - caption: UNIT 3 - USING INFORMATICS TO DESIGN AND PLAN
     chapters:
     - file: Unit_3
     - file: Unit_3_Assesing_HIS_Applications
@@ -31,19 +32,19 @@ parts:
     - file: Unit_3_Assignment_2
     - file: Unit_3_Assignment_3
       
-  - caption: UNIT 4
+  - caption: UNIT 4 - USING INFORMATICS TO COLLECT DATA
     chapters:
     - file: Unit_4_Assignment_1
     - file: Unit_4_Assignment_2
 
-  - caption: UNIT 5
+  - caption: UNIT 5 - USING INFORMATICS TO ORGANIZE AND ANALYZE DATA
     chapters:
     - file: Unit_5_Assignment
 
-  - caption: UNIT 6
+  - caption: UNIT 6 - USING INFORMATICS TO ANALYZE DATA
     chapters:
     - file: Unit_6
-  - caption: UNIT 7
+  - caption: UNIT 7 - INTERPRET
     chapters:
     - file: Unit_7
     - file: Unit_7_Assignment
