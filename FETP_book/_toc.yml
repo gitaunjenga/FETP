@@ -9,6 +9,7 @@ parts:
     - file: Unit_2
   - caption: Unit 2.1
     chapters:
+    - file: Unit_2.1
     - file: Unit_2.1_Case_study
     - file: Unit_2.1_Case_study_Assignment_1
     - file: Unit_2.1_Using_Software_to_Explore_Datasets
