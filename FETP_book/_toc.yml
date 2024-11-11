@@ -7,9 +7,9 @@ parts:
   - caption: Unit 2 Advanced Topics in Data Analysis
     chapters:
       - file: Unit_2
-      - sections:
+        chapters:
         - caption: Unit 2.1 Case Studies and Assignments
-          sections:
+          chapters:
             - file: Unit_2.1_Case_study
             - file: Unit_2.1_Case_study_Assignment_1
             - file: Unit_2.1_Using_Software_to_Explore_Datasets
