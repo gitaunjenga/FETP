@@ -16,6 +16,7 @@ parts:
     - file: Unit_2.1_Case_study_Assignment_3
 
   - caption: Unit 2.2
+    chapters:
     - file: Unit_2.2
     - file: Unit_2.2_Case_study_Assignment_4
     - file: Unit_2.2_Compile_and_Analyze_Data
