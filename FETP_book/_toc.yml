@@ -36,20 +36,29 @@ parts:
       
   - caption: UNIT 4 - USING INFORMATICS TO COLLECT DATA
     chapters:
+    - file: Unit_4
     - file: Unit_4_Assignment_1
     - file: Unit_4_Assignment_2
 
   - caption: UNIT 5 - USING INFORMATICS TO ORGANIZE AND ANALYZE DATA
     chapters:
-    - file: Unit_5_Assignment
+    - file: Unit_5
+    - file: Unit_5_Assignment_1
+    - file: Unit_5_Assignment_2
+    - file: Unit_5_Assignment_3
+    - file: Unit_5_Assignment_4
+    - file: Unit_5_Assignment_5
 
   - caption: UNIT 6 - USING INFORMATICS TO ANALYZE DATA
     chapters:
     - file: Unit_6
+    - file: Unit_6_Group_work_1
+    - file: Unit_6_Group_work_2
+
   - caption: UNIT 7 - INTERPRET
     chapters:
     - file: Unit_7
-    - file: Unit_7_Assignment
+    - file: Unit_7_Group_work
 
   - caption: UNIT 8
     chapters:
