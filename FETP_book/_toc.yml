@@ -43,14 +43,14 @@ parts:
   #   - file: Unit_4_Assignment_1
   #   - file: Unit_4_Assignment_2
 
-  - caption: UNIT 5 - USING INFORMATICS TO ORGANIZE AND ANALYZE DATA
-    chapters:
-    - file: Unit_5
-    - file: Unit_5_Assignment_1
-    - file: Unit_5_Assignment_2
-    - file: Unit_5_Assignment_3
-    - file: Unit_5_Assignment_4
-    - file: Unit_5_Assignment_5
+  # - caption: UNIT 5 - USING INFORMATICS TO ORGANIZE AND ANALYZE DATA
+  #   chapters:
+  #   - file: Unit_5
+  #   - file: Unit_5_Assignment_1
+  #   - file: Unit_5_Assignment_2
+  #   - file: Unit_5_Assignment_3
+  #   - file: Unit_5_Assignment_4
+  #   - file: Unit_5_Assignment_5
 
   # - caption: UNIT 6 - USING INFORMATICS TO ANALYZE DATA
   #   chapters:
@@ -67,7 +67,10 @@ parts:
   #   chapters:
   #   - file: Unit_8
 
-
+  - caption: UNIT 5 - USING INFORMATICS TO ORGANIZE AND ANALYZE DATA
+    chapters:
+    - file: Unit_5_Python
+    - file: Unit_5_R
 
 
 
