@@ -37,8 +37,8 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y r-base
-          R -e "install.packages('IRkernel')"
-          R -e "IRkernel::installspec(user = FALSE)"  # Make IRkernel available globally
+          R -e "install.packages('IRkernel', lib = '/home/runner/R/x86_64-pc-linux-gnu-library/4.0')"  # Install IRkernel in a user-writable path
+          R -e "IRkernel::installspec(user = TRUE)"  # Register the kernel for the user
 
 
       - name: Set up Python 3.11
