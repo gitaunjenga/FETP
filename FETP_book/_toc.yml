@@ -1,47 +1,47 @@
 format: jb-book
 root: intro
 parts:
-  - caption: RESOURCES
-    chapters:
-    - file: Resources
-  - caption: UNIT 1 - INTRODUCTION TO INFORMATICS
-    chapters:
-    - file: Unit_1
-  - caption: UNIT 2 - DETECTION AND DIAGNOSIS
-    chapters:
-    - file: Unit_2
-  - caption: Unit 2.1
-    chapters:
-    - file: Unit_2.1
-    - file: Unit_2.1_Case_study
-    - file: Unit_2.1_Case_study_Assignment_1
-    - file: Unit_2.1_Using_Software_to_Explore_Datasets
-    - file: Unit_2.1_Case_study_Assignment_2
-    - file: Unit_2.1_Case_study_Assignment_3
+  # - caption: RESOURCES
+  #   chapters:
+  #   - file: Resources
+  # - caption: UNIT 1 - INTRODUCTION TO INFORMATICS
+  #   chapters:
+  #   - file: Unit_1
+  # - caption: UNIT 2 - DETECTION AND DIAGNOSIS
+  #   chapters:
+  #   - file: Unit_2
+  # - caption: Unit 2.1
+  #   chapters:
+  #   - file: Unit_2.1
+  #   - file: Unit_2.1_Case_study
+  #   - file: Unit_2.1_Case_study_Assignment_1
+  #   - file: Unit_2.1_Using_Software_to_Explore_Datasets
+  #   - file: Unit_2.1_Case_study_Assignment_2
+  #   - file: Unit_2.1_Case_study_Assignment_3
 
-  - caption: Unit 2.2
-    chapters:
-    - file: Unit_2.2
-    - file: Unit_2.2_Case_study_Assignment_4
-    - file: Unit_2.2_Compile_and_Analyze_Data
-    - file: Unit_2.2_Case_study_Assignment_5
-    - file: Unit_2.3
-    - file: Unit_2.3_Case_study_Assignment_6
-    - file: Unit_2.3_Case_study_Assignment_X
+  # - caption: Unit 2.2
+  #   chapters:
+  #   - file: Unit_2.2
+  #   - file: Unit_2.2_Case_study_Assignment_4
+  #   - file: Unit_2.2_Compile_and_Analyze_Data
+  #   - file: Unit_2.2_Case_study_Assignment_5
+  #   - file: Unit_2.3
+  #   - file: Unit_2.3_Case_study_Assignment_6
+  #   - file: Unit_2.3_Case_study_Assignment_X
 
-  - caption: UNIT 3 - USING INFORMATICS TO DESIGN AND PLAN
-    chapters:
-    - file: Unit_3
-    - file: Unit_3_Assesing_HIS_Applications
-    - file: Unit_3_Assignment_1
-    - file: Unit_3_Assignment_2
-    - file: Unit_3_Assignment_3
+  # - caption: UNIT 3 - USING INFORMATICS TO DESIGN AND PLAN
+  #   chapters:
+  #   - file: Unit_3
+  #   - file: Unit_3_Assesing_HIS_Applications
+  #   - file: Unit_3_Assignment_1
+  #   - file: Unit_3_Assignment_2
+  #   - file: Unit_3_Assignment_3
       
-  - caption: UNIT 4 - USING INFORMATICS TO COLLECT DATA
-    chapters:
-    - file: Unit_4
-    - file: Unit_4_Assignment_1
-    - file: Unit_4_Assignment_2
+  # - caption: UNIT 4 - USING INFORMATICS TO COLLECT DATA
+  #   chapters:
+  #   - file: Unit_4
+  #   - file: Unit_4_Assignment_1
+  #   - file: Unit_4_Assignment_2
 
   - caption: UNIT 5 - USING INFORMATICS TO ORGANIZE AND ANALYZE DATA
     chapters:
@@ -52,20 +52,20 @@ parts:
     - file: Unit_5_Assignment_4
     - file: Unit_5_Assignment_5
 
-  - caption: UNIT 6 - USING INFORMATICS TO ANALYZE DATA
-    chapters:
-    - file: Unit_6
-    - file: Unit_6_Group_work_1
-    - file: Unit_6_Group_work_2
+  # - caption: UNIT 6 - USING INFORMATICS TO ANALYZE DATA
+  #   chapters:
+  #   - file: Unit_6
+  #   - file: Unit_6_Group_work_1
+  #   - file: Unit_6_Group_work_2
 
-  - caption: UNIT 7 - INTERPRET
-    chapters:
-    - file: Unit_7
-    - file: Unit_7_Group_work
+  # - caption: UNIT 7 - INTERPRET
+  #   chapters:
+  #   - file: Unit_7
+  #   - file: Unit_7_Group_work
 
-  - caption: UNIT 8
-    chapters:
-    - file: Unit_8
+  # - caption: UNIT 8
+  #   chapters:
+  #   - file: Unit_8
 
 
 
