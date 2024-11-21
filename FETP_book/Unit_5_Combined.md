@@ -1,37 +1,69 @@
-# Readable code
+# Unit 5: Compile Data Using Informatics
 
-The principles outlined in this chapter represent good practices for general programming and software development.
-These have been tailored to a more analytical workflow.
+### 1. Introduction
 
-```{admonition} Pre-requisites
+```{admonition} Learning objectives
 :class: admonition-learning
 
-To get the most benefit from this section, you should have an understanding modular code, which was covered in the [previous chapter](modular_code.md).
-You should also have an understand of core programming concepts such as:
+1.	Assess datasets to be used for an investigation using informatics standards and tools
 
-* storing information in variables
-* using control flow, such as if-statements and for-loops
+2.	Triangulate data from multiple sources to identify issues as well as synthesize information to inform actions
 
-You can find links to relevant training in the [](learning.md) section of the book.
+3.	Prepare and clean datasets to be merged or joined using informatics standards and tools
+
+4.	Merge datasets from multiple sources
+
 ```
 
 
-## Motivation
+### 2. Loading data
 
-```{epigraph}
-Code is read more often than it is written.
+First, let's load the dataset. This dataset contains information about Yellow Fever cases in Sierra Leone.
 
--- Guido van Rossum (creator of Python)
+
+````{tabs}
+```{code-tab} r R
+library(readxl)
+library(dplyr)
+
+df <- read_excel('Sierra Leone-Yellow fever DataSet.xlsx')
 ```
 
-When writing code, we should expect that at some point someone else will need to understand, use and adapt it.
-This might be yourself in six months time.
-As such, it is important to empathise with these potential users and write code that is tidy, understandable and does not add unnecessary complexity.
-Doing this will make for a 'self-documenting' codebase that does not need as much additional documentation.
+```{code-tab} py
+import pandas as pd
 
-This chapter highlights good coding practices that will improve the readability and maintainability of your code.
-Here, readability refers to how easily another analyst can gain a decent understand of how your code works, within a reasonable amount of time.
-Maintainability refers to how easily other analysts can understand your code well enough to modify and repair it.
+df = pd.read_excel('Sierra Leone-Yellow fever DataSet.xlsx')
+```
+````
+
+The readxl function allows us to read the dataset from an Excel file into a DataFrame.
+
+### 3. Exploratory Analysis
+
+Exploratory Data Analysis (EDA) is crucial for understanding the dataset and uncovering initial patterns, anomalies, and relationships.
+
+> **3.1. Data Shape and Structure**
+
+- Understanding the shape and structure of the dataset is the first step in exploratory data analysis. It helps to get an overview of what the dataset looks like
+
+- The head and tail functions in R are useful for quickly inspecting the beginning and end of a DataFrame. They help you get a sense of the data without displaying the entire dataset.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Clean code
