@@ -71,6 +71,8 @@ parts:
     chapters:
     - file: Unit_5_Python
     - file: Unit_5_R
+    - file: Unit_5_Combined
+    
 
 
 
