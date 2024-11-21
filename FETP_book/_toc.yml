@@ -69,8 +69,8 @@ parts:
 
   - caption: UNIT 5 - USING INFORMATICS TO ORGANIZE AND ANALYZE DATA
     chapters:
-    - file: Unit_5_Python
-    - file: Unit_5_R
+    # - file: Unit_5_Python
+    # - file: Unit_5_R
     - file: Unit_5_Combined
     
 
